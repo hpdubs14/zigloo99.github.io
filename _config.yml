@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: Paul Wanless
-description: details
+title: "Paul Wanless"
+description: "details"
+logo: [Location of the logo]
+show_downloads: "true"
+google_analytics: "UA-30727538-1"
