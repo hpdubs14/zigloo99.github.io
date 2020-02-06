@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: "Paul Wanless"
 description: "Peer into my work"
 #logo: [Location of the logo]
-show_downloads: "true"
+show_downloads: false
 google_analytics: "UA-30727538-1"
